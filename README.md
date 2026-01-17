@@ -20,6 +20,8 @@ gegara kepipkiran chatime ama tolak angin. jadinya ku bikin pake baygon. so basi
 ## endpoints
 
 ### category endpoints
+| Method | Endpoint |
+|------|----------|
 | GET | /api/categories |
 | POST | /api/categories |
 | GET | /api/categories/{id} |
@@ -27,11 +29,15 @@ gegara kepipkiran chatime ama tolak angin. jadinya ku bikin pake baygon. so basi
 | DELETE | /api/categories/{id} |
 
 ### product endpoints
+| Method | Endpoint |
+|------|----------|
 | GET | /api/products |
 | POST | /api/products |
 | GET | /api/products/{id} |
 | PUT | /api/products/{id} |
 | DELETE | /api/products/{id} |
+
+---
 
 ## run
 ### 1. clone repository
