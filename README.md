@@ -4,8 +4,9 @@ gegara kepipkiran chatime ama tolak angin. jadinya ku bikin pake baygon. so basi
 
 ## tech stack:
 - laravel 12
-- mysql
+- mysql/phpmyadmin
 - composer
+- rest api
 - postman
 
 ## used tables
